@@ -3,7 +3,7 @@
 
 #### Este é um manifesto em permanente construção e representa apenas a visão dos que abaixo assinam. Se você deseja adicionar idéias e/ou sua assinatura a este manifesto, faça um PR editando este arquivo.
 
-Este é um manifesto pela diversidade e pluralidade na Comunidade Python e indiretamente a todas as comunidades que de alguma forma se relacionam a ela. Em um momento decisivo como o que estamos passando, nos sentimos obrigados a reafirmar o óbvio: viver em comunidade é respeitar, viver e valorizar as diferenças é se permitir transformar e ser transformado pelo outro.
+Este é um manifesto pela diversidade e pluralidade na Comunidade Python e indiretamente a todas as comunidades que de alguma forma se relacionam a ela. Em um momento decisivo como o que estamos passando, precisamos reafirmar o óbvio: viver em comunidade é respeitar, viver e valorizar as diferenças, é se permitir transformar e ser transformado pelo outro.
 
 Dentro da nossa comunidade temos pessoas das mais diferentes matizes: bagagens, histórias, experiências, conhecimentos, cores, gêneros, sexos e identidades. Tivemos um grande avanço no sentido de abarcar essas diferentes matizes e nossa comunidade é bem mais capaz de refletir a sociedade na qual está inserida. Hoje o principal evento da comunidade, a Python Brasil, consegue mostrar números expressivos dessa diversidade. Ainda, a comunidade Python Brasil tem se tornado referência para outras comunidades de tecnologia nesse quesito.
 
@@ -16,4 +16,3 @@ Assinam este manifesto:
 
 - André "decko" de Brito <@decko>
 - Eduardo "Stalinho" Oliveira de Carvalho
-- Bernardo Botelho Fontes
