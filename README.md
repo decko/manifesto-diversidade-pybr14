@@ -23,3 +23,4 @@ Assinam este manifesto:
 - Hildeberto Abreu Magalhães
 - Douglas Henrique Santana da Silva
 - Leonardo "quatroka" Santos Monteiro
+- Antonio Dourado <@tonnydourado>
