@@ -18,3 +18,5 @@ Assinam este manifesto:
 - Eduardo "Stalinho" Oliveira de Carvalho
 - Isac Moura Gomes
 - Hildeberto Abreu Magalhães
+- Douglas Henrique Santana da Silva
+- Leonardo "quatroka" Santos Monteiro
