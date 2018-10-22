@@ -16,6 +16,7 @@ Assinam este manifesto:
 
 - André "decko" de Brito <@decko>
 - Eduardo "Stalinho" Oliveira de Carvalho
+- Bernardo Botelho Fontes
 - Isac Moura Gomes
 - Rafael Paixão
 - Rafael Henrique da Silva Correia <@rafaelhenrique>
