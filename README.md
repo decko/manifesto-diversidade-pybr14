@@ -17,6 +17,7 @@ Assinam este manifesto:
 - André "decko" de Brito <@decko>
 - Eduardo "Stalinho" Oliveira de Carvalho
 - Isac Moura Gomes
+- Rafael Paixão
 - Rafael Henrique da Silva Correia <@rafaelhenrique>
 - Hildeberto Abreu Magalhães
 - Douglas Henrique Santana da Silva
