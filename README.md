@@ -26,6 +26,7 @@ Assinam este manifesto:
 - Antonio Dourado <@tonnydourado>
 - Alifer Sales <@AliferSales>
 - Bruno Rocha <@rochacbruno>
+- Sidney Marcelino <@sidneysm>
 - Guilmour Alves da Silva Cunha <@guilmour-asc>
 - Yurick Hauschild <@Yurickh>
 - Gabriel "Gabu" Bellon<@gabubellon>
