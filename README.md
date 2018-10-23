@@ -26,3 +26,4 @@ Assinam este manifesto:
 - Antonio Dourado <@tonnydourado>
 - Alifer Sales <@AliferSales>
 - Bruno Rocha <@rochacbruno>
+- Hélio Meira Lins <@heliomeiralins>
