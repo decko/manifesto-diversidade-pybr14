@@ -24,3 +24,4 @@ Assinam este manifesto:
 - Douglas Henrique Santana da Silva
 - Leonardo "quatroka" Santos Monteiro
 - Antonio Dourado <@tonnydourado>
+- Alifer Sales <@AliferSales>
