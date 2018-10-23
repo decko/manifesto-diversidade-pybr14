@@ -1,7 +1,7 @@
 # Pythonistas pela diversidade
 ## Um manifesto de reafirmação da diversidade, pluralidade e democracia
 
-#### Este é um manifesto em permanente construção e representa apenas a visão dos que abaixo assinam. Se você deseja adicionar idéias e/ou sua assinatura a este manifesto, faça um PR editando este arquivo.
+#### Este é um manifesto em permanente construção e representa apenas a visão dos que abaixo assinam. Se você deseja adicionar ideias e/ou sua assinatura a este manifesto, faça um PR editando este arquivo.
 
 Este é um manifesto pela diversidade e pluralidade na Comunidade Python e, indiretamente, a todas as comunidades que de alguma forma se relacionam a ela. Em um momento decisivo como o que estamos passando, precisamos reafirmar o óbvio: **viver em comunidade é respeitar e valorizar as diferenças, é se permitir transformar e ser transformado pelo outro**.
 
@@ -26,5 +26,7 @@ Assinam este manifesto:
 - Antonio Dourado <@tonnydourado>
 - Alifer Sales <@AliferSales>
 - Bruno Rocha <@rochacbruno>
+- Yurick Hauschild <@Yurickh>
 - Gabriel "Gabu" Bellon<@gabubellon>
 - Alexandre Yukio Harano <@ayharano>
+
