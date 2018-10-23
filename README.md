@@ -27,3 +27,4 @@ Assinam este manifesto:
 - Alifer Sales <@AliferSales>
 - Bruno Rocha <@rochacbruno>
 - Gabriel "Gabu" Bellon<@gabubellon>
+- Alexandre Yukio Harano <@ayharano>
