@@ -31,3 +31,4 @@ Assinam este manifesto:
 - Yurick Hauschild <@Yurickh>
 - Gabriel "Gabu" Bellon<@gabubellon>
 - Alexandre Yukio Harano <@ayharano>
+- Hélio Meira Lins <@heliomeiralins>
