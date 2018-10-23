@@ -25,3 +25,4 @@ Assinam este manifesto:
 - Leonardo "quatroka" Santos Monteiro
 - Antonio Dourado <@tonnydourado>
 - Alifer Sales <@AliferSales>
+- Alexandre Yukio Harano <@ayharano>
