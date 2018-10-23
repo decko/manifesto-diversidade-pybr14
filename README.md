@@ -26,3 +26,4 @@ Assinam este manifesto:
 - Antonio Dourado <@tonnydourado>
 - Alifer Sales <@AliferSales>
 - Alexandre Yukio Harano <@ayharano>
+- Bruno Rocha <@rochacbruno>
