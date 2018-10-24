@@ -33,3 +33,4 @@ Assinam este manifesto:
 - Alexandre Yukio Harano <@ayharano>
 - Hélio Meira Lins <@heliomeiralins>
 - Luciano Martins Ratamero <@lucianoratamero>
+- Flávio Amieiro
