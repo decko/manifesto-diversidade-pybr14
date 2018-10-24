@@ -32,3 +32,4 @@ Assinam este manifesto:
 - Gabriel "Gabu" Bellon<@gabubellon>
 - Alexandre Yukio Harano <@ayharano>
 - Hélio Meira Lins <@heliomeiralins>
+- Flávio Amieiro
