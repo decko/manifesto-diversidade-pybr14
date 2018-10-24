@@ -35,4 +35,5 @@ Assinam este manifesto:
 - Lincoln de Macêdo <@demacdolincoln>
 - Luciano Martins Ratamero <@lucianoratamero>
 - Flávio Amieiro
+- Juan Lopes <@juanplopes>
 
