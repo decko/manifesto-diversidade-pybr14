@@ -36,4 +36,5 @@ Assinam este manifesto:
 - Luciano Martins Ratamero <@lucianoratamero>
 - Flávio Amieiro
 - Juan Lopes <@juanplopes>
+- Alexandre Souza <@alexandre>
 
