@@ -37,4 +37,5 @@ Assinam este manifesto:
 - Flávio Amieiro
 - Juan Lopes <@juanplopes>
 - Alexandre Souza <@alexandre>
+- Luiz Irber <@luizirber>
 
