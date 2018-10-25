@@ -38,6 +38,7 @@ Assinam este manifesto:
 - Juan Lopes <@juanplopes>
 - Alexandre Souza <@alexandre>
 - Luiz Irber <@luizirber>
+- Luiz Braga <@luizbraga>
 - Olga Pinheiro Garcia <@olgapinheiro>
 - Mariana Bedran Lesche <@maribedran>
 - Jéssica Pauli de C Bonson <@jpbonson>
