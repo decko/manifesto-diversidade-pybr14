@@ -39,3 +39,6 @@ Assinam este manifesto:
 - Alexandre Souza <@alexandre>
 - Luiz Irber <@luizirber>
 - Olga Pinheiro Garcia <@olgapinheiro>
+- Mariana Bedran Lesche <@maribedran>
+- Jéssica Pauli de C Bonson <@jpbonson>
+- Ricardo Dantas <@licensed>
