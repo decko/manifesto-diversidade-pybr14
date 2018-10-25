@@ -45,3 +45,4 @@ Assinam este manifesto:
 - Mariana Bedran Lesche <@maribedran>
 - Jéssica Pauli de C Bonson <@jpbonson>
 - Ricardo Dantas <@licensed>
+- Ivan Carmo da Rocha Neto <@ivancrneto>
