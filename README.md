@@ -39,3 +39,4 @@ Assinam este manifesto:
 - Alexandre Souza <@alexandre>
 - Luiz Irber <@luizirber>
 - Ricardo Dantas <@licensed>
+- Gustavo Carvalho <@gtcarvalho>
