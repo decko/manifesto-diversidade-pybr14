@@ -40,3 +40,8 @@ Assinam este manifesto:
 - Luiz Irber <@luizirber>
 - Ricardo Dantas <@licensed>
 - Gustavo Carvalho <@gtcarvalho>
+- Luiz Braga <@luizbraga>
+- Olga Pinheiro Garcia <@olgapinheiro>
+- Mariana Bedran Lesche <@maribedran>
+- Jéssica Pauli de C Bonson <@jpbonson>
+- Ricardo Dantas <@licensed>
