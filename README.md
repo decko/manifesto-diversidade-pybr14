@@ -44,5 +44,4 @@ Assinam este manifesto:
 - Olga Pinheiro Garcia <@olgapinheiro>
 - Mariana Bedran Lesche <@maribedran>
 - Jéssica Pauli de C Bonson <@jpbonson>
-- Ricardo Dantas <@licensed>
 - Ivan Carmo da Rocha Neto <@ivancrneto>
