@@ -39,4 +39,4 @@ Assinam este manifesto:
 - Alexandre Souza <@alexandre>
 - Luiz Irber <@luizirber>
 - Jéssica Pauli de C Bonson <@jpbonson>
-
+- Ricardo Dantas <@licensed>
