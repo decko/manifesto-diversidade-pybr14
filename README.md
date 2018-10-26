@@ -47,3 +47,5 @@ Assinam este manifesto:
 - Ivan Carmo da Rocha Neto <@ivancrneto>
 - Paulo Romeira <@pauloromeira>
 - Baesse <@pbaesse>
+- Tyrone Macedo Damasceno <@tyronedamasceno>
+- Jéssica Paz <@jessicapaz>
