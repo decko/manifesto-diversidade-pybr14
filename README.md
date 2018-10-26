@@ -53,3 +53,5 @@ Assinam este manifesto:
 - Tyrone Macedo Damasceno <@tyronedamasceno>
 - Jéssica Paz <@jessicapaz>
 - Nivaldo Gomes da Silva Filho <@gsilva49>
+- Aline Pêgas <@alinepegas>
+- Jhonathan Brandão <@jhonathanbrandao>
