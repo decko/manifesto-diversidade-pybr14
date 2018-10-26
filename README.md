@@ -46,4 +46,5 @@ Assinam este manifesto:
 - Jéssica Pauli de C Bonson <@jpbonson>
 - Ivan Carmo da Rocha Neto <@ivancrneto>
 - Paulo Romeira <@pauloromeira>
+- Tyrone Macedo Damasceno <@tyronedamasceno>
 - Jéssica Paz <@jessicapaz>
