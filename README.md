@@ -52,3 +52,4 @@ Assinam este manifesto:
 - Baesse <@pbaesse>
 - Tyrone Macedo Damasceno <@tyronedamasceno>
 - Jéssica Paz <@jessicapaz>
+- Nivaldo Gomes da Silva Filho <@gsilva49>
