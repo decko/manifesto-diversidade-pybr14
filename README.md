@@ -52,3 +52,4 @@ Assinam este manifesto:
 - Baesse <@pbaesse>
 - Tyrone Macedo Damasceno <@tyronedamasceno>
 - Jéssica Paz <@jessicapaz>
+- Aline Pêgas <@alinepegas>
