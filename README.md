@@ -46,6 +46,7 @@ Assinam este manifesto:
 - Jéssica Pauli de C Bonson <@jpbonson>
 - Ivan Carmo da Rocha Neto <@ivancrneto>
 - Paulo Romeira <@pauloromeira>
+- José Maria Jr <@jozemaria>
 - Ramiro Batista da Luz <@ramiroluz>
 - Rui Neto <@rnetonet>
 - Baesse <@pbaesse>
