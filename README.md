@@ -56,3 +56,4 @@ Assinam este manifesto:
 - Aline Pêgas <@alinepegas>
 - Jhonathan Brandão <@jhonathanbrandao>
 - Matheus Emanuel <@math77>
+- Abner Paulo Campanhã <@abnerpc>
