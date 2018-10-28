@@ -55,4 +55,5 @@ Assinam este manifesto:
 - Nivaldo Gomes da Silva Filho <@gsilva49>
 - Aline Pêgas <@alinepegas>
 - Jhonathan Brandão <@jhonathanbrandao>
+- Matheus Emanuel <@math77>
 - Abner Paulo Campanhã <@abnerpc>
