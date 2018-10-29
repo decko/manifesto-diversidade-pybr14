@@ -57,3 +57,4 @@ Assinam este manifesto:
 - Jhonathan Brandão <@jhonathanbrandao>
 - Matheus Emanuel <@math77>
 - Abner Paulo Campanhã <@abnerpc>
+- Werberth Vinicius Souza Gomes <@werberth>
