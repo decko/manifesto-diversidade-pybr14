@@ -58,3 +58,4 @@ Assinam este manifesto:
 - Matheus Emanuel <@math77>
 - Abner Paulo Campanhã <@abnerpc>
 - Werberth Vinicius Souza Gomes <@werberth>
+- Pedro Fadel <@PFadel>
