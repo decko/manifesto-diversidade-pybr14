@@ -59,3 +59,4 @@ Assinam este manifesto:
 - Abner Paulo Campanhã <@abnerpc>
 - Werberth Vinicius Souza Gomes <@werberth>
 - Pedro Fadel <@PFadel>
+- Anderson de Sousa Lima <@pythekiller>
