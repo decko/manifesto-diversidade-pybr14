@@ -59,6 +59,7 @@ Assinam este manifesto:
 - Abner Paulo Campanhã <@abnerpc>
 - Werberth Vinicius Souza Gomes <@werberth>
 - Pedro Fadel <@PFadel>
+- Thiago Lopes <@thiagolops_>
 - Anderson de Sousa Lima <@pythekiller>
 - Thais Viana <@thaisviana>
 - [Otacilio Maia <@OtacilioN>](https://github.com/OtacilioN)
