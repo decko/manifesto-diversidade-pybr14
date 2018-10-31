@@ -59,4 +59,5 @@ Assinam este manifesto:
 - Abner Paulo Campanhã <@abnerpc>
 - Werberth Vinicius Souza Gomes <@werberth>
 - Pedro Fadel <@PFadel>
-- Tiago da Costa Melo <@tcostam>
+- Tiago da Costa
+- Filipe Ximenes <@xima>
