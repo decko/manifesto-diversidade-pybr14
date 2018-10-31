@@ -59,6 +59,7 @@ Assinam este manifesto:
 - Abner Paulo Campanhã <@abnerpc>
 - Werberth Vinicius Souza Gomes <@werberth>
 - Pedro Fadel <@PFadel>
+- [Otacilio Maia <@OtacilioN>](https://github.com/OtacilioN)
 - Diego "Dukão" Moreira Guimarães <@diegodukao>
 - Tiago da Costa
 - Filipe Ximenes <@xima>
