@@ -62,3 +62,4 @@ Assinam este manifesto:
 - [Otacilio Maia <@OtacilioN>](https://github.com/OtacilioN)
 - Diego "Dukão" Moreira Guimarães <@diegodukao>
 - Tiago da Costa
+- Filipe Ximenes <@xima>
