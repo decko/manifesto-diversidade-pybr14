@@ -60,3 +60,8 @@ Assinam este manifesto:
 - Werberth Vinicius Souza Gomes <@werberth>
 - Pedro Fadel <@PFadel>
 - Anderson de Sousa Lima <@pythekiller>
+- Thais Viana <@thaisviana>
+- [Otacilio Maia <@OtacilioN>](https://github.com/OtacilioN)
+- Diego "Dukão" Moreira Guimarães <@diegodukao>
+- Tiago da Costa
+- Filipe Ximenes <@xima>
