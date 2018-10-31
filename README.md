@@ -60,3 +60,5 @@ Assinam este manifesto:
 - Werberth Vinicius Souza Gomes <@werberth>
 - Pedro Fadel <@PFadel>
 - Diego "Dukão" Moreira Guimarães <@diegodukao>
+- Tiago da Costa
+- Filipe Ximenes <@xima>
