@@ -66,3 +66,4 @@ Assinam este manifesto:
 - Diego "Dukão" Moreira Guimarães <@diegodukao>
 - Tiago da Costa
 - Filipe Ximenes <@xima>
+- Carol Soares <@carolcode>
