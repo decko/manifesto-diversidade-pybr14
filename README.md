@@ -67,3 +67,4 @@ Assinam este manifesto:
 - Tiago da Costa
 - Filipe Ximenes <@xima>
 - Carol Soares <@carolcode>
+- Bianca Rosa de Mendonça
