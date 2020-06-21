@@ -69,3 +69,4 @@ Assinam este manifesto:
 - Carol Soares <@carolcode>
 - Bianca Rosa de Mendonça
 - Ilza Medeiros <@ilzinha>
+- Fabricio Aguiar <[@fao89](https://github.com/fao89)>
