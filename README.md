@@ -69,3 +69,4 @@ Assinam este manifesto:
 - Carol Soares <@carolcode>
 - Bianca Rosa de Mendonça
 - Ilza Medeiros <@ilzinha>
+- [Pâmella Araujo Balcaçar <@pamellabiotec>](https://github.com/pamellabiotec)
